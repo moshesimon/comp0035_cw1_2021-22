@@ -14,21 +14,11 @@ To set up your project:
    or [use python in your shell.](https://pip.pypa.io/en/latest/user_guide/#requirements-files).
 4. Edit .gitignore to add any config files and folders for your IDE. PyCharm, VisualStudio Code, Xcode and NetBeans have
    already been added.
-5. `comp0035_coursework1.ipynb` contains an outline structure of a Jupyter notebook that you can use to write coursework 1.
+5. `comp0035_coursework1.md` contains an outline structure of a document that you can use to write coursework 1.
 
 Before you submit the coursework:
 
-1. Complete this README.md using the instructions below.
+1. Complete the `comp0035_coursework1.md` document. Use the coursework specification on Moodle which explains what needs
+   to be included in the coursework.
 2. Update requirements.txt with the libraries used in your project.
-4. Delete this instructions section.
 
-## Repository URL
-
-Please add the URL to your repository here (e.g. a link to your GitHub repo for courseworl 2). You can delete this
-instruction text.
-
-## Set-up instructions
-
-Use this section to explain any set-up instructions to be followed to run your coursework as a web app.
-
-Assume that requirements will be installed from requirements.txt.
