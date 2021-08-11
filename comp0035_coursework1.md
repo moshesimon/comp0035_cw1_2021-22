@@ -1,27 +1,72 @@
-# COMP0034 Coursework 1
+# Coursework 1 portfolio
 
-## Repository URL
+## Technical information
+### Repository URL
+Please add the URL to your repository below, then delete this instruction text.
+[Repository]()
 
-Please add the URL to your repository here (e.g. a link to your GitHub repo for courseworl 2). You can delete this
-instruction text.
-
-## Set-up instructions
-
-Use this section to explain any set-up instructions to be followed to run your coursework as a web app.
+### Set-up instructions
 
 Assume that requirements will be installed from requirements.txt.
 
-## Business need
+If you have used any libraries that require set-up beyond `pip install ...` then use this section to explain any set-up
+instructions to be followed to run your coursework.
 
-### Problem statement
+If the marker cannot execute your coursework they can't grade it!
+
+
+## Definition of the business need
+### Problem statement and goal
 
 ### Target audience
 
 ### Questions to be answered using the dataset
 
-## Project methodology
+### Suggested web app
 
-## Code
 
-Write a python file called `data_preparation` in which you explore and clean the data. Make sure that you export the
-cleaned and prepared dataset so that you can use it in the COMP0035 project.
+## Selection of project methodology
+### Methodology (or combination) selected
+
+### Selection criteria and justification of selection
+
+## Data preparation and exploration
+### Data preparation
+
+[Data Preparation](data_preparation.py)
+
+### Prepared data set
+Please add names of your data set files in this repository below, then delete this instruction text.
+[Original data set]()
+[Prepared data set]()
+
+### Data exploration
+
+[Data Exploration]()
+
+## Weekly progress reports
+Copy and paste from Moodle or use the following structure. Delete this instruction text.
+
+What I did in the last week:
+- item
+- item
+
+What I plan to do in the next week:
+- item
+- item
+
+Issues blocking my progress (state ‘None’ if there are no issues):
+- item
+- item
+
+### Report 1
+
+### Report 2
+
+### Report 3
+
+### Report 4
+
+## References
+Use any [referencing style](https://library-guides.ucl.ac.uk/referencing-plagiarism/referencing-styles) that you are
+used to using in your course.

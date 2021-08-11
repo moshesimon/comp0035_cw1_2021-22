@@ -1,6 +1,6 @@
 # COMP0035 Coursework 1 template repository
 
-This repository contains a basic structure for coursework 2.
+This repository contains a basic structure for coursework 1.
 
 ## Instructions for using the starter code
 
@@ -14,11 +14,10 @@ To set up your project:
    or [use python in your shell.](https://pip.pypa.io/en/latest/user_guide/#requirements-files).
 4. Edit .gitignore to add any config files and folders for your IDE. PyCharm, VisualStudio Code, Xcode and NetBeans have
    already been added.
-5. `comp0035_coursework1.md` contains an outline structure of a document that you can use to write coursework 1.
+5. [comp0035_coursework1.md](comp0035_coursework1.md) contains an outline structure of a document that you can use to write coursework 1.
 
 Before you submit the coursework:
 
-1. Complete the `comp0035_coursework1.md` document. Use the coursework specification on Moodle which explains what needs
-   to be included in the coursework.
+1. Replace this README.md with [comp0035_coursework1.md](comp0035_coursework1.md).
 2. Update requirements.txt with the libraries used in your project.
-
+3. Download the repository as a zip file from GitHub. Upload the zip file to Moodle in the coursework 1 submission assignment.
