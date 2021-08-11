@@ -1,4 +1,5 @@
-# Write unit tests that test aspects of this class. The code has not been checked or tested so there may be bugs!
+# Write unit tests that test aspects of this class. You may modify the code or extend it by adding additional
+# attributes and methods. The code has not been tested and may contain bugs.
 from datetime import date
 
 import bcrypt
