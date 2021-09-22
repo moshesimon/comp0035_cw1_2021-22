@@ -15,20 +15,20 @@ instructions to be followed to run your coursework.
 If the marker cannot execute your coursework they can't grade it!
 
 
+## Selection of project methodology
+### Methodology (or combination) selected
+
+### Selection criteria and justification of selection
+
+
 ## Definition of the business need
-### Problem statement and goal
+### Problem definition
 
 ### Target audience
 
 ### Questions to be answered using the dataset
 
 ### Suggested web app
-
-
-## Selection of project methodology
-### Methodology (or combination) selected
-
-### Selection criteria and justification of selection
 
 ## Data preparation and exploration
 ### Data preparation
