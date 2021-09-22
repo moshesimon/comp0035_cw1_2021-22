@@ -1,4 +1,4 @@
-# Coursework 1 portfolio
+# Coursework 1
 
 ## Technical information
 ### Repository URL
