@@ -1,6 +1,6 @@
 # COMP0035 Coursework 1 template repository
 
-This repository contains a basic structure for coursework 1 and optionally also for coursework 2.
+This repository contains a basic structure for coursework 1 and optionally may also be used for coursework 2.
 
 ## Instructions for using the starter code
 
