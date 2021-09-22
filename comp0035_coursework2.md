@@ -1,4 +1,4 @@
-# Coursework 2 portfolio
+# Coursework 2
 
 Most students will use the same repository for coursework 2. You may use this file to present the results of that
 coursework if you wish. Alternatively you can use video or audio to provide the explanations instead of writing them.
