@@ -2,24 +2,20 @@
 
 ## Technical information
 ### Repository URL
-Please add the URL to your repository below, then delete this instruction text.
-[Repository]()
+[https://github.com/moshesimon/comp0035_cw1]()
 
 ### Set-up instructions
 
-Assume that requirements will be installed from requirements.txt.
-
-If you have used any libraries that require set-up beyond `pip install ...` then use this section to explain any set-up
-instructions to be followed to run your coursework.
-
-If the marker cannot execute your coursework they can't grade it!
-
+All requirements have been installed from requirements.txt.
 
 ## Selection of project methodology
 ### Methodology (or combination) selected
-
+Scrum
 ### Selection criteria and justification of selection
-
+Criteria:
+1) Needs to be a method I am already familiar with.
+2) Needs to adapt well for inexperienced software developers.
+I have selected the scrum methodology for a number of reasons. Firstly, I have used the scrum methodology in the past and am quite farmiliar with how it works. Secondly, this methodology fits well with this project because the web app will contain many different features and scrum allows for working on small sections of the project at a time. Scrum is also good for programmers with limited experience because it focuses on incremental improvements so we can learn along the way. It also is excellent at identifying bugs at the early stages which is useful for less experienced programmers. Scrum also allows for daily meeting for developers to voice things they are struggling with and get help.
 
 ## Definition of the business need
 ### Problem definition
@@ -60,6 +56,18 @@ Issues blocking my progress (state ‘None’ if there are no issues):
 - item
 
 ### Report 1
+What I did in the last week:
+- Researched programming methodologies 
+- Decided on a methodology 
+- Added my justification to my portfolio  
+
+What I plan to do in the next week:
+- Define the business need and write a problem statement 
+- Identify the target audiance 
+- Propose a web application to address the problem  
+
+Issues blocking my progress (state ‘None’ if there are no issues):
+- None
 
 ### Report 2
 
